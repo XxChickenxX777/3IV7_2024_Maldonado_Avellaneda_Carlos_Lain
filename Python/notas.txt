@@ -1,0 +1,11 @@
+Pytho es un lenguaje de programación multiparadigma 
+
+Significa que puede soportar diferentes modos de programación
+Imperativa, Orientada a objetos, Funcional
+
+Multiplataforma, eso significa que tiene soporte para 
+Windows, linux, OS, estructural
+
+Es fuertemente tipado, significa que debemos conocer el tipado de dato, al usar una variable de un contexto diferente debe de existir una conversión
+
+Es un lenguaje interpretado, no pasa por un estado de compilación, significa que no pasa por un lenguaje máquina
